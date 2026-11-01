@@ -1,0 +1,6 @@
+node_modules/
+dist/
+__pycache__/
+.DS_Store
+# Original minimaps are 3-12 MB each; the pipeline writes web-sized copies to web/public/minimaps.
+data/player_data/minimaps/

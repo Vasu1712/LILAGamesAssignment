@@ -1,0 +1,48 @@
+{
+ "maps": {
+  "AmbroseValley": {
+   "matches": 566,
+   "rows": 60815,
+   "humans": 218,
+   "image": "minimaps/AmbroseValley.webp"
+  },
+  "GrandRift": {
+   "matches": 59,
+   "rows": 6853,
+   "humans": 30,
+   "image": "minimaps/GrandRift.webp"
+  },
+  "Lockdown": {
+   "matches": 171,
+   "rows": 21201,
+   "humans": 80,
+   "image": "minimaps/Lockdown.webp"
+  }
+ },
+ "days": [
+  "February_10",
+  "February_11",
+  "February_12",
+  "February_13",
+  "February_14"
+ ],
+ "stats": {
+  "files_total": 1243,
+  "files_duplicate_across_days": 1,
+  "files_loaded": 1242,
+  "rows_unknown_event": 0,
+  "rows_duplicate_movement_dropped": 147,
+  "rows": 88869,
+  "journeys_id_rule_disagrees_with_telemetry": 17
+ },
+ "eventCodes": {
+  "Position": 0,
+  "BotPosition": 1,
+  "Kill": 2,
+  "Killed": 3,
+  "BotKill": 4,
+  "BotKilled": 5,
+  "KilledByStorm": 6,
+  "Loot": 7
+ }
+}
