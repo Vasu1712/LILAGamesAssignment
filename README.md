@@ -2,7 +2,6 @@
 
 A browser tool for Level Designers to see how players actually move through, fight in, loot and die on the three LILA BLACK maps, built from 5 days of production telemetry (Feb 10–14, 2026; 1,243 journey files, ~89k events).
 
-**Live tool:** _add the deployed URL here after the first deploy (see [Deploy](#deploy))_
 
 ![Match playback on Lockdown](docs/img/match-playback.jpg)
 
